@@ -4,9 +4,9 @@ body {
 }
 
 h1 {
-    color: black;
+    color: white;
     border: 1px solid gray;
-    background-color: darkorange;
+    background-color: red;
 }
 
 a {
