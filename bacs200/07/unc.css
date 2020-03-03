@@ -1,0 +1,14 @@
+
+body {
+    background-color: white;
+}
+
+h1 {
+    color: purple;
+    border: 1px solid gray;
+    background-color: blue;
+}
+
+a {
+    color: red;
+}
