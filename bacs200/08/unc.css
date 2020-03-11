@@ -1,7 +1,7 @@
 
 header {
-    color: blue;
-    background-color: #ffbf00;
+    color: black;
+    background-color: orange;
     border-radius: 25pt;
     font-size: 15pt;
     text-align: center;    
@@ -12,15 +12,15 @@ html {
 }
 
 main {
-    background-color: black;
+    background-color: orange;
 }
 
 a {
-    color: black;
+    color: whitesmoke;
 }
 
 h1 {
-    color: black;
+    color: #003366;
 }
 
 footer a {
@@ -28,7 +28,7 @@ footer a {
 }
 
 h2 {
-    color: black;
+    color: #003366;
 }
 
 section a {
