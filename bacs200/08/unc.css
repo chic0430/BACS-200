@@ -1,5 +1,6 @@
+
 header {
-    color: white;
+    color: blue;
     background-color: #ffbf00;
     border-radius: 25pt;
     font-size: 15pt;
@@ -7,7 +8,7 @@ header {
 }
 
 html {
-    background-color: navajowhite;
+    background-color: #003366;
 }
 
 main {
@@ -15,11 +16,11 @@ main {
 }
 
 a {
-    color: gray;
+    color: blue;
 }
 
 h1 {
-    color: white;
+    color: #003366;
 }
 
 footer a {
@@ -31,12 +32,9 @@ h2 {
 }
 
 section a {
-    background-color: orange;
+    background-color: #003366;
     color: #ffbf00;
     border-radius: 2pt
 }
 
-body {
-    background-color: antiquewhite
-}
 
