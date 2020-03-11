@@ -1,5 +1,5 @@
 header {
-    color: blue;
+    color: white;
     background-color: #ffbf00;
     border-radius: 25pt;
     font-size: 15pt;
@@ -19,7 +19,7 @@ a {
 }
 
 h1 {
-    color: #003366;
+    color: white;
 }
 
 footer a {
@@ -31,7 +31,7 @@ h2 {
 }
 
 section a {
-    background-color: #003366;
+    background-color: orange;
     color: #ffbf00;
     border-radius: 2pt
 }
